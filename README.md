@@ -18,7 +18,21 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Program to swap two values.
+#Developed by: KEERTHI VASAN A
+#RegisterNumber: 212222240048
 
+ball1,ball2=input(),input()
+temp=ball1
+ball1=ball2
+ball2=temp
+print("Swapped values are:",ball1,ball2)
+
+
+```
+##output:
+![python](https://user-images.githubusercontent.com/107488929/224619599-7f0c79ea-3a7a-489d-8e25-dbce2555cd76.png)
 
 
 ## RESULT:
